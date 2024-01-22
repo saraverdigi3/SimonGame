@@ -1,12 +1,12 @@
 # Simon Game
 This repository contains the code for building a Simon Game.
-- For this project I used HTML, CSS, JavaScript.
+- For this project I used **HTML, CSS, JavaScript**.
 
-# Description
+## Description
 The Simon game is a classic memory and pattern recognition game brought to life on the web. 
 It challenges your memory skills and requires your full attention to follow the ever-growing sequence of button presses and tones.
 
-# How to Play:
+## How to Play:
 - You'll see a colorful game board with four buttons, each representing a different color: red, green, blue, and yellow.
 - The game starts with a simple sequence, lighting up one of the buttons and playing a corresponding sound.
 - Your goal is to replicate the sequence by clicking the buttons in the same order they were shown.
